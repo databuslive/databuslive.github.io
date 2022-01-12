@@ -11,5 +11,5 @@ The password requirements on these sites are so inadequate that it's like your d
 | www.prioritypass.com | 10 | NO | NO | YES | YES |
 
 
-> To add a new website, send a pull request in the index.md file
+```To add a new website, send a pull request in the index.md file```
 
